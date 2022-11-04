@@ -1,2 +1,2 @@
-alert(555)
-alert(444)
+alert.log(555)
+alert.log(444)
